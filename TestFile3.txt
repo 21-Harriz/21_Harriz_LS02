@@ -1,1 +1,3 @@
-TestFile3
+
+TestFile3 by Harriz
+>>>>>>> version3
